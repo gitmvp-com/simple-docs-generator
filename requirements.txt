@@ -1,0 +1,4 @@
+# Python Markdown and extensions
+# Matching the parent project's Markdown processing dependencies
+Markdown>=3.4.0
+PyYAML>=6.0
