@@ -1,0 +1,18 @@
+# Table of Contents
+# Simple YAML structure for organizing documentation
+
+# Getting Started
+- href: getting-started/intro.md
+- topics:
+    - href: getting-started/installation.md
+    - href: getting-started/quickstart.md
+    - href: getting-started/writing-docs.md
+
+# Building
+- href: building/intro.md
+- topics:
+    - href: building/markdown-syntax.md
+    - href: building/extensions.md
+
+# Deployment
+- href: deployment/intro.md
